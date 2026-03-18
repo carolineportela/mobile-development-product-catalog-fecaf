@@ -20,7 +20,6 @@ const AcademicDocs = () => {
       "O arquivo Reflexao_Contextual_ModaCatalog.pdf está sendo gerado e será salvo no seu dispositivo.",
       [{ text: "OK" }]
     );
-    // Nota: Em um ambiente React Native real, usaríamos bibliotecas como expo-print ou react-native-html-to-pdf
   };
 
   return (
